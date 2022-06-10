@@ -4,7 +4,7 @@ author: Ariel
 date: "2022-06-10"
 ---
 
-There are tons of resources on linear algebra. As a total beginner, I find some tutorials are more beginner-friendly than others. Here is my list, happy learning!🥳
+There are tons of resources on the internet. As a total beginner, I find some tutorials are more beginner-friendly than others. Here is my list, happy learning!🥳
 
 # Textbooks
 
@@ -22,7 +22,7 @@ These videos are pretty short, but they are well delivered and very helpful for 
 
 # Blogs
 
-All blogs below are in Chinese
+All blogs below are in Chinese.
 
 - [MIT 18.06 线性代数笔记](https://linalg.apachecn.org/#/)
 - [谭升的博客](https://face2ai.com/categories/Mathematic/Linear-Algebra/)
