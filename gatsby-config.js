@@ -8,9 +8,9 @@ module.exports = {
     description: `Personal blog`,
     siteUrl: `https://arielw.xyz/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: ``,
     },
-  },
+  },                                                                                                                                                                                                                                                                                                     
   plugins: [
     `gatsby-plugin-image`,
     {
@@ -113,8 +113,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Ailleurs`,
+        short_name: `Ailleurs`,
         start_url: `/`,
         background_color: `#ffffff`,
         // This will impact how browsers show your PWA/website

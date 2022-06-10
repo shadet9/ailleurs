@@ -58,7 +58,7 @@ convert kml to geojson
 ogr2ogr -f KML output.kml output.geojson
 ```
 
-So, actually it's just a **three-rows** command lines solution for this problem.
+So, actually it's just a **three-row** command lines solution.
 But I did spend some hours figuring it out, I won't say it was waste of time, but I should absolutely be more effective.
 
 ---
